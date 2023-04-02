@@ -51,7 +51,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.ramadanapps'
-                artifactId = 'panda-logger'
+                artifactId = 'amplitude-analytics'
                 version = '1.0'
             }
         }

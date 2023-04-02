@@ -17,7 +17,6 @@ afterEvaluate {
                 groupId = 'com.github.mrabelwahed'
                 artifactId = 'panda-logger'
                 version = '1.1'
-
                 from components.java
             }
         }

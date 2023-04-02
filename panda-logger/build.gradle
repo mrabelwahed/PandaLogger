@@ -15,7 +15,7 @@ afterEvaluate {
             mavenJava(MavenPublication) {
                 groupId = 'com.github.mrabelwahed'
                 artifactId = 'panda-logger'
-                version = '1.3'
+                version = '1.4'
                 from components.java
             }
         }

@@ -16,7 +16,7 @@ afterEvaluate {
             release(MavenPublication) {
                 //from components.release
 
-                groupId = 'com.ramadanapps'
+                groupId = 'com.github.mrabelwahed'
                 artifactId = 'panda-logger'
                 version = '1.0'
             }

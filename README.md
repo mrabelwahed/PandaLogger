@@ -1,5 +1,7 @@
 # PandaLogger
-Android Logger for common analytics services like Amplitude, MixPanel, FLurry,...etc and more[Under Development]
+Android Logger for common analytics services like Amplitude, MixPanel, FLurry,...etc and more
+
+-- [Under Development , it is not ready to use]
 
 -- ![](https://jitpack.io/v/mrabelwahed/PandaLogger.svg)](https://jitpack.io/#mrabelwahed/PandaLogger)
 
